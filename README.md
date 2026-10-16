@@ -4,7 +4,7 @@
 
 ## 下载
 
-前往 [Releases](https://github.com/tiancaiProgramer/quickpic-classic/releases/latest) 下载 **快图怀旧版_4.5.2.apk**。
+前往 [Releases](https://github.com/tiancaiProgramer/quickpic-classic/releases/latest) 下载 **QuickPicClassic-4.5.2.apk**。
 
 - 应用名称：快图怀旧版
 - 显示版本：4.5.2
